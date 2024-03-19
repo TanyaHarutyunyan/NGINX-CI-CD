@@ -1,4 +1,5 @@
 - hosts: AWS
   become: true
   roles:
+    - docker
     - nginx
