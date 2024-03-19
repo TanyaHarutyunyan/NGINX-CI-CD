@@ -1,0 +1,5 @@
+[AWS]
+13.53.86.107 ansible_user=ubuntu
+
+[AWS:vars]
+image_tag = latest
